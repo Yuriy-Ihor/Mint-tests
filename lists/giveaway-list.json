@@ -4,6 +4,11 @@
             "pubkey": "FdAnZrDgT315cYFajd681m7o2tiLHh1FaxFAt3qxvGn6",
             "total": 3,
             "minted": 0
+        },
+        {
+            "pubkey": "GhPMDKVkKp3puoGpUdU7YJwvJynFuwYsTQ61YNTwFWmP",
+            "total": 1,
+            "minted": 0
         }
     ]
 }
